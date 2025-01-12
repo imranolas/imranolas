@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Imran Sulemanji (@imranolas)  
+# 👋 Hi, I'm Imran
 
 I’m a software engineer interested in creating high-performance applications, intuitive user interfaces, and robust, scalable systems. My work spans UI development, data pipelines, durable execution, and cloud operations, with a strong focus on delivering reliable solutions that excel under load.  
 
